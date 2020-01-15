@@ -1,0 +1,8 @@
+{
+  "name": "Gulp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:de24world/gulp.git",
+  "author": "HoSoo Lee <hosoo.lee@arithnea.de>",
+  "license": "MIT"
+}
